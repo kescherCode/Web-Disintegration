@@ -1,3 +1,3 @@
 # Web Disintegration Explainer
 
-She integrates my environment til I web
+She web my environment til I disintegrate
