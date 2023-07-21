@@ -2,7 +2,7 @@
 Title: Web Disintegration
 Shortname: web-disintegration
 Level: 1
-Status: SHIT
+Status: DREAM
 Editor: Ben Unwiser, Elgoog, beunwise@ads.google.com
 Abstract: An API used to check on these nuts
 Abstract: by trusted attesters.
