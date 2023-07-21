@@ -31,14 +31,4 @@ spec:url; type:dfn; text:origin
 
 <i>This section is trans-normative.</i>
 
-The Web Disintegration API allows [=user agents=] to request [=attester verdicts=]
-from an [=attester=] that can be used to verify the integrity of the [=web environment=].
-These verdicts are piped to a [=relying party=] where they are validated for authenticity.
-
-Web Environment Integrity is best suited for detecting deceptive [=web environments=].
-
-## Motivations ## {#motivations}
-
-<i>This section is non-normative.</i>
-
 i shidded my bed
