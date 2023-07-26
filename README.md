@@ -8,4 +8,4 @@ const result = await navigator.disintegrate("...");
 
 The [explainer](./explainer.md) goes gives a high level overview of the proposal.
 
-The [spec](http://goatse.cx/) currently describes how this is being prototyped in Chromium.
+The [spec](https://keschercode.github.io/Web-Disintegration/) currently describes how this is being prototyped in Chromium.
